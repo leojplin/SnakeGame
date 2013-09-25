@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentProject Version="1.2" Creator="ANX ProjectConverter v1.3.1.20176">
+  <ProjectName>SnakeGameContent</ProjectName>
+  <Configuration />
+  <Profile>Reach</Profile>
+  <Platform>0</Platform>
+  <OutputPath>bin</OutputPath>
+  <InputPath />
+  <ContentRoot>SnakeGameContent</ContentRoot>
+  <References IncludeDir="">
+    <Reference>Microsoft.Xna.Framework.Content.Pipeline.EffectImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL</Reference>
+    <Reference>Microsoft.Xna.Framework.Content.Pipeline.FBXImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL</Reference>
+    <Reference>Microsoft.Xna.Framework.Content.Pipeline.TextureImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL</Reference>
+    <Reference>Microsoft.Xna.Framework.Content.Pipeline.XImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL</Reference>
+    <Reference>Microsoft.Xna.Framework.Content.Pipeline.AudioImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL</Reference>
+    <Reference>Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL</Reference>
+  </References>
+  <BuildItems>
+    <BuildItem AssetName="Font" OutputFilename="Font.xnb" Importer="FontDescriptionImporter" Processor="FontDescriptionProcessor">
+      <SourceFile>Font.spritefont</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="apple" OutputFilename="apple.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>apple.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="helpbutton" OutputFilename="helpbutton.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>helpbutton.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="playbutton" OutputFilename="playbutton.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>playbutton.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="quitbutton" OutputFilename="quitbutton.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>quitbutton.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="snake" OutputFilename="snake.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>snake.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="pausebutton" OutputFilename="pausebutton.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>pausebutton.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="resumebutton" OutputFilename="resumebutton.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>resumebutton.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="scorebutton" OutputFilename="scorebutton.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>scorebutton.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="ingamebanner" OutputFilename="ingamebanner.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>ingamebanner.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="menubanner" OutputFilename="menubanner.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>menubanner.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="hline" OutputFilename="hline.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>hline.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="vline" OutputFilename="vline.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>vline.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+    <BuildItem AssetName="help" OutputFilename="help.xnb" Importer="TextureImporter" Processor="TextureProcessor">
+      <SourceFile>help.png</SourceFile>
+      <ProcessorParams />
+    </BuildItem>
+  </BuildItems>
+</ContentProject>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2012-06-21T16:19:04.7138722-07:00</Time>
+    </Item>
+    <Item>
+      <Source>apple.png</Source>
+      <Name>apple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\apple.xnb</Output>
+      <Time>2012-06-20T17:57:59.6623036-07:00</Time>
+    </Item>
+    <Item>
+      <Source>helpbutton.png</Source>
+      <Name>helpbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\helpbutton.xnb</Output>
+      <Time>2012-06-20T18:13:51.7836371-07:00</Time>
+    </Item>
+    <Item>
+      <Source>playbutton.png</Source>
+      <Name>playbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\playbutton.xnb</Output>
+      <Time>2012-06-20T18:11:49.199463-07:00</Time>
+    </Item>
+    <Item>
+      <Source>quitbutton.png</Source>
+      <Name>quitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\quitbutton.xnb</Output>
+      <Time>2012-06-20T18:13:01.0515649-07:00</Time>
+    </Item>
+    <Item>
+      <Source>snake.png</Source>
+      <Name>snake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\snake.xnb</Output>
+      <Time>2012-06-20T17:59:23.574851-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pausebutton.png</Source>
+      <Name>pausebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\pausebutton.xnb</Output>
+      <Time>2012-06-21T14:05:15.316617-07:00</Time>
+    </Item>
+    <Item>
+      <Source>resumebutton.png</Source>
+      <Name>resumebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\resumebutton.xnb</Output>
+      <Time>2012-06-21T14:06:39.9064552-07:00</Time>
+    </Item>
+    <Item>
+      <Source>scorebutton.png</Source>
+      <Name>scorebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\scorebutton.xnb</Output>
+      <Time>2012-06-21T14:07:50.762508-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ingamebanner.png</Source>
+      <Name>ingamebanner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\ingamebanner.xnb</Output>
+      <Time>2012-06-21T16:12:17.1355601-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menubanner.png</Source>
+      <Name>menubanner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\menubanner.xnb</Output>
+      <Time>2012-06-21T16:13:19.2381121-07:00</Time>
+    </Item>
+    <Item>
+      <Source>hline.png</Source>
+      <Name>hline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\hline.xnb</Output>
+      <Time>2012-06-21T15:47:22.7840881-07:00</Time>
+    </Item>
+    <Item>
+      <Source>vline.png</Source>
+      <Name>vline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\vline.xnb</Output>
+      <Time>2012-06-21T15:48:57.7105175-07:00</Time>
+    </Item>
+    <Item>
+      <Source>help.png</Source>
+      <Name>help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\help.xnb</Output>
+      <Time>2012-06-21T17:08:12.7894925-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{931E2CBA-B16B-4405-91CF-0875D3FCA64C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-03T17:53:00.2993586-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

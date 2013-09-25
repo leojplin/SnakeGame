@@ -1,0 +1,1 @@
+C:\Users\Leo\Documents\Visual Studio 2010\Projects\SnakeGame\SnakeGame\SnakeGameContent\obj\x86\Debug\SnakeGameContent.contentprojResolveAssemblyReference.cache

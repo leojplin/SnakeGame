@@ -1,0 +1,14 @@
+Content\Font.xnb
+Content\apple.xnb
+Content\helpbutton.xnb
+Content\playbutton.xnb
+Content\quitbutton.xnb
+Content\snake.xnb
+Content\pausebutton.xnb
+Content\resumebutton.xnb
+Content\scorebutton.xnb
+Content\ingamebanner.xnb
+Content\menubanner.xnb
+Content\hline.xnb
+Content\vline.xnb
+Content\help.xnb
